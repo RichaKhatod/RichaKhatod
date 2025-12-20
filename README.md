@@ -22,3 +22,28 @@ and data pipelines that transform raw data into actionable insights.
   <li>⚙️ Tech stack: Python, Django, MongoDB, SQL, Postman</li>
   <li>🌱 Learning Git & GitHub through real-world workflows</li>
 </ul>
+
+---
+
+<!-- Skills Section -->
+<h2>🧠 Skills & Tech Stack</h2>
+
+<h3>Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql" />
+</p>
+
+<h3>Frameworks & Libraries</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask" />
+</p>
+
+<h3>Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+<h3>Tools & Platforms</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
