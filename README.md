@@ -16,7 +16,7 @@ and data pipelines that transform raw data into actionable insights.
 </p>
 
 <ul>
-  <li>🚀 Backend Developer Trainee at <b>Lincode</b>, working on production-grade features</li>
+  <li>🚀 Associate Software Developer at <b>Lincode</b>, working on production-grade features</li>
   <li>📊 Built inspection analytics dashboards with batch, defect, and trend analysis</li>
   <li>⚙️ Tech stack: Python, Django, MongoDB, SQL, Postman</li>
   <li>🌱 Learning Git & GitHub through real-world workflows</li>
